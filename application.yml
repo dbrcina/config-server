@@ -1,5 +1,5 @@
 temperature:
-  unit: K
+  unit: C
 
 eureka:
   client:
