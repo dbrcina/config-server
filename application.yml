@@ -1,6 +1,3 @@
-temperature:
-  unit: K
-
 eureka:
   client:
   service-url:
